@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539931255 source:c:\users\catal\onedrive\desktop\lab oop\tema 1\tema 1\main.cpp
+	<iostream>
+	"a.h"
+	"b.h"
+
+1539710537 c:\users\catal\onedrive\desktop\lab oop\tema 1\tema 1\a.h
+	<iostream>
+
+1539931788 c:\users\catal\onedrive\desktop\lab oop\tema 1\tema 1\b.h
+	<iostream>
+
